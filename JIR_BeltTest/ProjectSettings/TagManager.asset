@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - FxTemporaire
+  - ExcludeTeleport
+  - projectile
+  - Item
+  - TeleportIgnore
+  - CheckZone
+  - StartBtn
+  - Glass
+  - Can
+  - Plastic
+  - Paper
+  - Yellow
+  - Blue
+  - Red
+  - Green
+  - BlueCan
+  - YellowCan
+  - GreenCan
+  - RedCan
+  - BluePaper
+  - YellowPaper
+  - GreenPaper
+  - RedPaper
+  - BluePlastic
+  - YellowPlastic
+  - GreenPlastic
+  - RedPlastic
+  - BlueGlass
+  - YellowGlass
+  - GreenGlass
+  - RedGlass
+  - ControllerCollider
+  - FootImage
+  - MissedItem
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

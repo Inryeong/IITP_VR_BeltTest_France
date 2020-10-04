@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Belt_IR/1_Scenes/JIR_Scenes/BeltTest_Training.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0

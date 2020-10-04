@@ -1,0 +1,185 @@
+fileFormatVersion: 2
+guid: a7488eb0d3414824c9b3eeb14662571c
+timeCreated: 1568894346
+licenseType: Store
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: bleach_LOD0
+    100002: cleaner2_LOD0
+    100004: cleaner3_LOD0
+    100006: cleaner4_LOD0
+    100008: cleaner5_LOD0
+    100010: cleaner6_LOD0
+    100012: cleaner7_LOD0
+    100014: cleaner_LOD0
+    100016: //RootNode
+    100018: conditioner2_LOD0
+    100020: conditioner_LOD0
+    100022: floorcleaner_LOD0
+    100024: handsoap1_LOD0
+    100026: handsoap2_LOD0
+    100028: Scouringpad_LOD0
+    100030: spray2_LOD0
+    100032: spray2top_LOD0
+    100034: spray_LOD0
+    100036: toiletcleaner_LOD0
+    400000: bleach_LOD0
+    400002: cleaner2_LOD0
+    400004: cleaner3_LOD0
+    400006: cleaner4_LOD0
+    400008: cleaner5_LOD0
+    400010: cleaner6_LOD0
+    400012: cleaner7_LOD0
+    400014: cleaner_LOD0
+    400016: //RootNode
+    400018: conditioner2_LOD0
+    400020: conditioner_LOD0
+    400022: floorcleaner_LOD0
+    400024: handsoap1_LOD0
+    400026: handsoap2_LOD0
+    400028: Scouringpad_LOD0
+    400030: spray2_LOD0
+    400032: spray2top_LOD0
+    400034: spray_LOD0
+    400036: toiletcleaner_LOD0
+    2100000: cleaning
+    2300000: bleach_LOD0
+    2300002: cleaner2_LOD0
+    2300004: cleaner3_LOD0
+    2300006: cleaner4_LOD0
+    2300008: cleaner5_LOD0
+    2300010: cleaner6_LOD0
+    2300012: cleaner7_LOD0
+    2300014: cleaner_LOD0
+    2300016: conditioner2_LOD0
+    2300018: conditioner_LOD0
+    2300020: floorcleaner_LOD0
+    2300022: handsoap1_LOD0
+    2300024: handsoap2_LOD0
+    2300026: Scouringpad_LOD0
+    2300028: spray2_LOD0
+    2300030: spray2top_LOD0
+    2300032: spray_LOD0
+    2300034: toiletcleaner_LOD0
+    3300000: bleach_LOD0
+    3300002: cleaner2_LOD0
+    3300004: cleaner3_LOD0
+    3300006: cleaner4_LOD0
+    3300008: cleaner5_LOD0
+    3300010: cleaner6_LOD0
+    3300012: cleaner7_LOD0
+    3300014: cleaner_LOD0
+    3300016: conditioner2_LOD0
+    3300018: conditioner_LOD0
+    3300020: floorcleaner_LOD0
+    3300022: handsoap1_LOD0
+    3300024: handsoap2_LOD0
+    3300026: Scouringpad_LOD0
+    3300028: spray2_LOD0
+    3300030: spray2top_LOD0
+    3300032: spray_LOD0
+    3300034: toiletcleaner_LOD0
+    4300000: cleaner_LOD0
+    4300002: spray2top_LOD0
+    4300004: spray2_LOD0
+    4300006: cleaner2_LOD0
+    4300008: conditioner_LOD0
+    4300010: cleaner7_LOD0
+    4300012: spray_LOD0
+    4300014: toiletcleaner_LOD0
+    4300016: Scouringpad_LOD0
+    4300018: cleaner4_LOD0
+    4300020: cleaner5_LOD0
+    4300022: cleaner3_LOD0
+    4300024: floorcleaner_LOD0
+    4300026: handsoap1_LOD0
+    4300028: conditioner2_LOD0
+    4300030: bleach_LOD0
+    4300032: handsoap2_LOD0
+    4300034: cleaner6_LOD0
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cleaning
+    second: {fileID: 2100000, guid: 0a752c7a10720da4f909383838c09808, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
